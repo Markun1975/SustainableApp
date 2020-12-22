@@ -1,4 +1,4 @@
-＃SustainableApp
+＃　SustainableApp
 
 The app was developed in the wake of last year's Amazon forest fires.
 
